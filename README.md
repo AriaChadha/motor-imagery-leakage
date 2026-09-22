@@ -11,4 +11,4 @@ Setup: `python -m pip install -r requirements.txt`
 
 Raw data: PhysioNet EEGMMIDB (doi:10.13026/C28G6P) and the stroke corpus
 of Liu et al. (doi:10.1038/s41597-023-02787-8). The frozen preprocessed
-dataset used for every reported value is archived on Zenodo (DOI to follow).
+dataset used for every reported value is archived on Zenodo (doi:10.5281/zenodo.22885171).
