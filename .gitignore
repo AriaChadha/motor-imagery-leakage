@@ -1,0 +1,13 @@
+venv/
+cache/
+data/
+outputs/*.pkl
+outputs/*.pt
+outputs/*.npz
+.DS_Store
+__pycache__/
+*.pyc
+*.bak
+*.orig
+venv*/
+raw/

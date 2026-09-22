@@ -1,0 +1,7 @@
+phase,group,n_trials,n_subjects,within_mean,within_std,cross_mean,cross_std,mean_amp_factor,pct_amplified,sim_n,goal_pct,mean_steps,mean_collisions,blocked_pct,mean_latency_ms,condition,change_vs_control_pp,ci_low_pp,ci_high_pp,p_paired_t,cohens_dz
+Phase1,healthy,3076,87,0.6232,0.1462,0.5981,0.0178,1.0,0.0,50,96.0,38.56,0.0,10.51,274.9,No amplification,,,,,
+Phase1,stroke,1758,46,0.5409,0.1257,0.5008,0.0162,1.0,0.0,50,96.0,46.2,0.0,12.05,275.3,No amplification,,,,,
+Phase2,healthy,3076,87,0.6232,0.1462,0.5981,0.0178,1.0,0.0,50,96.0,38.56,0.0,10.51,274.9,Population-referenced,0.0,0.0,0.0,1.0,0.0
+Phase2,stroke,1758,46,0.5454,0.1157,0.5064,0.0138,1.2816,97.9,50,96.0,45.68,0.0,11.9,275.2,Population-referenced,0.452,-1.603,2.508,0.6597,0.0654
+Phase3,healthy,3076,87,0.6232,0.1462,0.5981,0.0178,1.0,0.0,50,96.0,38.56,0.0,10.51,274.9,Subject-referenced,0.0,0.0,0.0,1.0,0.0
+Phase3,stroke,1758,46,0.533,0.1059,0.5123,0.0248,1.0565,49.54,50,96.0,47.56,0.0,11.97,275.3,Subject-referenced,-0.791,-3.049,1.468,0.4842,-0.104

@@ -1,0 +1,294 @@
+
+==============================================================================
+CSV FILES FOUND
+==============================================================================
+   outputs/results.csv  (1025 bytes)
+
+==============================================================================
+SCHEMA — outputs/results.csv
+==============================================================================
+shape: (6, 22)
+
+dtypes:
+phase                       str
+group                       str
+n_trials                  int64
+n_subjects                int64
+within_mean             float64
+within_std              float64
+cross_mean              float64
+cross_std               float64
+mean_amp_factor         float64
+pct_amplified           float64
+sim_n                     int64
+goal_pct                float64
+mean_steps              float64
+mean_collisions         float64
+blocked_pct             float64
+mean_latency_ms         float64
+condition                   str
+change_vs_control_pp    float64
+ci_low_pp               float64
+ci_high_pp              float64
+p_paired_t              float64
+cohens_dz               float64
+
+==============================================================================
+LOW-CARDINALITY COLUMNS (the grouping keys)
+==============================================================================
+
+phase  (3 unique)
+    'Phase1'                       n=2
+    'Phase2'                       n=2
+    'Phase3'                       n=2
+
+group  (2 unique)
+    'healthy'                      n=3
+    'stroke'                       n=3
+
+n_trials  (2 unique)
+    3076                           n=3
+    1758                           n=3
+
+n_subjects  (2 unique)
+    87                             n=3
+    46                             n=3
+
+within_mean  (4 unique)
+    0.6232                         n=3
+    0.5404                         n=1
+    0.5476                         n=1
+    0.533                          n=1
+
+within_std  (4 unique)
+    0.1461                         n=3
+    0.1259                         n=1
+    0.1147                         n=1
+    0.1067                         n=1
+
+cross_mean  (4 unique)
+    0.6028                         n=3
+    0.4927                         n=1
+    0.5102                         n=1
+    0.5022                         n=1
+
+cross_std  (4 unique)
+    0.0187                         n=3
+    0.0318                         n=1
+    0.0295                         n=1
+    0.023                          n=1
+
+mean_amp_factor  (2 unique)
+    1.0                            n=3
+    1.0565                         n=3
+
+pct_amplified  (2 unique)
+    0.0                            n=3
+    49.54                          n=3
+
+sim_n  (1 unique)
+    50                             n=6
+
+goal_pct  (1 unique)
+    96.0                           n=6
+
+mean_steps  (4 unique)
+    38.56                          n=3
+    46.2                           n=1
+    44.92                          n=1
+    47.56                          n=1
+
+mean_collisions  (1 unique)
+    0.0                            n=6
+
+blocked_pct  (4 unique)
+    10.51                          n=3
+    12.05                          n=1
+    12.42                          n=1
+    11.97                          n=1
+
+mean_latency_ms  (3 unique)
+    274.9                          n=3
+    275.3                          n=2
+    275.6                          n=1
+
+condition  (3 unique)
+    'No amplification'             n=2
+    'Population-referenced'        n=2
+    'Subject-referenced'           n=2
+
+change_vs_control_pp  (4 unique)
+    nan                            n=2
+    0.0                            n=2
+    0.724                          n=1
+    -0.737                         n=1
+
+ci_low_pp  (4 unique)
+    nan                            n=2
+    0.0                            n=2
+    -1.358                         n=1
+    -2.991                         n=1
+
+ci_high_pp  (4 unique)
+    nan                            n=2
+    0.0                            n=2
+    2.806                          n=1
+    1.518                          n=1
+
+p_paired_t  (4 unique)
+    nan                            n=2
+    1.0                            n=2
+    0.4872                         n=1
+    0.5138                         n=1
+
+cohens_dz  (4 unique)
+    nan                            n=2
+    0.0                            n=2
+    0.1033                         n=1
+    -0.097                         n=1
+
+==============================================================================
+NULL COUNTS PER COLUMN
+==============================================================================
+change_vs_control_pp    2
+ci_low_pp               2
+ci_high_pp              2
+p_paired_t              2
+cohens_dz               2
+
+==============================================================================
+FULL CONTENTS
+==============================================================================
+    phase    group  n_trials  n_subjects  within_mean  within_std  cross_mean  cross_std  mean_amp_factor  pct_amplified  sim_n  goal_pct  mean_steps  mean_collisions  blocked_pct  mean_latency_ms              condition  change_vs_control_pp  ci_low_pp  ci_high_pp  p_paired_t  cohens_dz
+0  Phase1  healthy      3076          87       0.6232      0.1461      0.6028     0.0187           1.0000           0.00     50      96.0       38.56              0.0        10.51            274.9       No amplification                   NaN        NaN         NaN         NaN        NaN
+1  Phase1   stroke      1758          46       0.5404      0.1259      0.4927     0.0318           1.0565          49.54     50      96.0       46.20              0.0        12.05            275.3       No amplification                   NaN        NaN         NaN         NaN        NaN
+2  Phase2  healthy      3076          87       0.6232      0.1461      0.6028     0.0187           1.0000           0.00     50      96.0       38.56              0.0        10.51            274.9  Population-referenced                 0.000      0.000       0.000      1.0000     0.0000
+3  Phase2   stroke      1758          46       0.5476      0.1147      0.5102     0.0295           1.0565          49.54     50      96.0       44.92              0.0        12.42            275.6  Population-referenced                 0.724     -1.358       2.806      0.4872     0.1033
+4  Phase3  healthy      3076          87       0.6232      0.1461      0.6028     0.0187           1.0000           0.00     50      96.0       38.56              0.0        10.51            274.9     Subject-referenced                 0.000      0.000       0.000      1.0000     0.0000
+5  Phase3   stroke      1758          46       0.5330      0.1067      0.5022     0.0230           1.0565          49.54     50      96.0       47.56              0.0        11.97            275.3     Subject-referenced                -0.737     -2.991       1.518      0.5138    -0.0970
+
+==============================================================================
+Q1 — ACCURACY COLUMNS, for rebuilding rf_vs_eegnet
+==============================================================================
+candidate accuracy columns: NONE FOUND
+candidate classifier columns: NONE FOUND
+
+==============================================================================
+Q2 — EEGNET VARIANCE, is SD 0.003 across folds or across seeds?
+==============================================================================
+candidate fold/seed columns: NONE FOUND
+
+==============================================================================
+Q3 — NAVIGATION, goal completion 100% or 95.5%?
+==============================================================================
+candidate navigation columns: ['goal_pct', 'mean_steps', 'mean_collisions', 'blocked_pct']
+
+goal_pct:
+count     6.0
+mean     96.0
+std       0.0
+min      96.0
+25%      96.0
+50%      96.0
+75%      96.0
+max      96.0
+
+mean_steps:
+count     6.000000
+mean     42.393333
+std       4.281414
+min      38.560000
+25%      38.560000
+50%      41.740000
+75%      45.880000
+max      47.560000
+
+mean_collisions:
+count    6.0
+mean     0.0
+std      0.0
+min      0.0
+25%      0.0
+50%      0.0
+75%      0.0
+max      0.0
+
+blocked_pct:
+count     6.000000
+mean     11.328333
+std       0.909207
+min      10.510000
+25%      10.510000
+50%      11.240000
+75%      12.030000
+max      12.420000
+
+==============================================================================
+Q4 — AMPLIFICATION, 97.9% or 49.5% of trials amplified?
+==============================================================================
+candidate amplification columns: ['mean_amp_factor', 'pct_amplified']
+
+mean_amp_factor:
+count    6.000000
+mean     1.028250
+std      0.030946
+min      1.000000
+25%      1.000000
+50%      1.028250
+75%      1.056500
+max      1.056500
+
+pct_amplified:
+count     6.000000
+mean     24.770000
+std      27.134175
+min       0.000000
+25%       0.000000
+50%      24.770000
+75%      49.540000
+max      49.540000
+
+==============================================================================
+Q5 — TRIAL AND SUBJECT COUNTS
+==============================================================================
+candidate count columns: ['n_trials', 'n_subjects']
+
+n_trials: count       6.000000
+mean     2417.000000
+std       721.898331
+min      1758.000000
+25%      1758.000000
+50%      2417.000000
+75%      3076.000000
+max      3076.000000
+
+n_subjects: count     6.000000
+mean     66.500000
+std      22.456625
+min      46.000000
+25%      46.000000
+50%      66.500000
+75%      87.000000
+max      87.000000
+
+==============================================================================
+PIPELINE FILES PRESENT
+==============================================================================
+    SETUP.py
+    apply_perm.py
+    apply_phase3.py
+    audit_results.py
+    check_erd.py
+    check_labels.py
+    check_leakage.py
+    check_lesion.py
+    check_mat.py
+    check_scale.py
+    check_seq.py
+    check_stroke.py
+    check_subject_erd.py
+    check_trigger.py
+    diagnose_amplitude.py
+    generate_sim_image.py
+    run_pipeline.py
+    sanity_check.py

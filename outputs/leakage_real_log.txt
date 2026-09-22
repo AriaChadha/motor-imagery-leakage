@@ -1,0 +1,32 @@
+
+================================================================
+HEALTHY: 3076 trials, 87 subjects
+================================================================
+
+WITHIN-SUBJECT  (n=87 subjects)
+  CSP inside fold   0.6232 +/- 0.1462   <- reported
+  CSP before split  0.7663 +/- 0.1226
+  INFLATION         +14.3 pp
+
+CROSS-SUBJECT
+  CSP inside fold,  grouped   <- controlled  0.5981  (+0.0 pp)
+  CSP before split, grouped                  0.6092  (+1.1 pp)
+  CSP inside fold,  pooled                   0.6245  (+2.6 pp)
+  CSP before split, pooled                   0.6372  (+3.9 pp)
+
+================================================================
+STROKE: 1758 trials, 46 subjects
+================================================================
+
+WITHIN-SUBJECT  (n=46 subjects)
+  CSP inside fold   0.5409 +/- 0.1257   <- reported
+  CSP before split  0.6472 +/- 0.1263
+  INFLATION         +10.6 pp
+
+CROSS-SUBJECT
+  CSP inside fold,  grouped   <- controlled  0.5008  (+0.0 pp)
+  CSP before split, grouped                  0.5102  (+0.9 pp)
+  CSP inside fold,  pooled                   0.4909  (-1.0 pp)
+  CSP before split, pooled                   0.5045  (+0.4 pp)
+
+Wrote outputs/leakage_real.csv

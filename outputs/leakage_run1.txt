@@ -1,0 +1,31 @@
+running null experiment...
+  repeat 1/20 done
+  repeat 2/20 done
+  repeat 3/20 done
+  repeat 4/20 done
+  repeat 5/20 done
+  repeat 6/20 done
+  repeat 7/20 done
+  repeat 8/20 done
+  repeat 9/20 done
+  repeat 10/20 done
+  repeat 11/20 done
+  repeat 12/20 done
+  repeat 13/20 done
+  repeat 14/20 done
+  repeat 15/20 done
+  repeat 16/20 done
+  repeat 17/20 done
+  repeat 18/20 done
+  repeat 19/20 done
+  repeat 20/20 done
+
+  within_out           0.9128 +/- 0.0081   (+41.28 pp)
+  within_in            0.5039 +/- 0.0131   (+0.39 pp)
+  cross_out_strat      0.5645 +/- 0.0163   (+6.45 pp)
+  cross_out_group      0.5564 +/- 0.0125   (+5.64 pp)
+  cross_in_strat       0.5462 +/- 0.0188   (+4.62 pp)
+  cross_in_group       0.5048 +/- 0.0162   (+0.48 pp)
+  baseline             0.6145 +/- 0.0115   (+11.45 pp)
+
+wrote figures/leakage_quantification.png

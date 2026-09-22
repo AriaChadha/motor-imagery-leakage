@@ -1,0 +1,10 @@
+
+=== healthy: 3076 trials, 87 subjects ===
+  within-subject : 0.6422 +/- 0.1711  (n=87 subjects)
+  cross-subject  : 0.6545 +/- 0.0170
+
+=== stroke: 1758 trials, 46 subjects ===
+  within-subject : 0.5120 +/- 0.1220  (n=46 subjects)
+  cross-subject  : 0.5165 +/- 0.0246
+
+Wrote outputs/riemann_results.csv

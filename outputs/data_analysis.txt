@@ -1,0 +1,43 @@
+==================================================================
+DATA ANALYSIS SUMMARY
+==================================================================
+
+--- Decoding accuracy ---
+
+Phase1:
+  healthy   within 0.6232 +/- 0.1462   cross 0.5981 +/- 0.0178   n=3076 trials, 87 subjects
+  stroke    within 0.5409 +/- 0.1257   cross 0.5008 +/- 0.0162   n=1758 trials, 46 subjects
+
+Phase2:
+  healthy   within 0.6232 +/- 0.1462   cross 0.5981 +/- 0.0178   n=3076 trials, 87 subjects
+  stroke    within 0.5454 +/- 0.1157   cross 0.5064 +/- 0.0138   n=1758 trials, 46 subjects
+
+Phase3:
+  healthy   within 0.6232 +/- 0.1462   cross 0.5981 +/- 0.0178   n=3076 trials, 87 subjects
+  stroke    within 0.5330 +/- 0.1059   cross 0.5123 +/- 0.0248   n=1758 trials, 46 subjects
+
+--- Amplification effect, paired by subject, vs Phase1 ---
+  Phase2  healthy   0.6232 -> 0.6232  (+0.00 pp, 95% CI +0.00 to +0.00)  t=+0.000  p=1.0000  wilcoxon=1.0000  dz=+0.000  n=87  [not significant]
+  Phase2  stroke    0.5409 -> 0.5454  (+0.45 pp, 95% CI -1.60 to +2.51)  t=+0.443  p=0.6597  wilcoxon=0.5293  dz=+0.065  n=46  [not significant]
+  Phase3  healthy   0.6232 -> 0.6232  (+0.00 pp, 95% CI +0.00 to +0.00)  t=+0.000  p=1.0000  wilcoxon=1.0000  dz=+0.000  n=87  [not significant]
+  Phase3  stroke    0.5409 -> 0.5330  (-0.79 pp, 95% CI -3.05 to +1.47)  t=-0.705  p=0.4842  wilcoxon=0.6959  dz=-0.104  n=46  [not significant]
+
+--- Amplification factors ---
+  healthy   no trials amplified
+  stroke    871/1758 trials amplified  mean=1.1140  sd=0.0337  range 1.100-1.346
+
+--- Navigation ---
+
+Phase1:
+  healthy   goal  96.0%  steps   38.6  collisions  0.00  blocked  10.5%  latency   275 ms
+  stroke    goal  96.0%  steps   46.2  collisions  0.00  blocked  12.0%  latency   275 ms
+
+Phase2:
+  healthy   goal  96.0%  steps   38.6  collisions  0.00  blocked  10.5%  latency   275 ms
+  stroke    goal  96.0%  steps   45.7  collisions  0.00  blocked  11.9%  latency   275 ms
+
+Phase3:
+  healthy   goal  96.0%  steps   38.6  collisions  0.00  blocked  10.5%  latency   275 ms
+  stroke    goal  96.0%  steps   47.6  collisions  0.00  blocked  12.0%  latency   275 ms
+
+==================================================================

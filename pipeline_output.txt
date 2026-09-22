@@ -1,0 +1,842 @@
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:98: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raws = [mne.io.read_raw_edf(p, preload=False, verbose=False) for p in paths]
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:98: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raws = [mne.io.read_raw_edf(p, preload=False, verbose=False) for p in paths]
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:98: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raws = [mne.io.read_raw_edf(p, preload=False, verbose=False) for p in paths]
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:98: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raws = [mne.io.read_raw_edf(p, preload=False, verbose=False) for p in paths]
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:98: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raws = [mne.io.read_raw_edf(p, preload=False, verbose=False) for p in paths]
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:98: RuntimeWarning: Limited 1 annotation(s) that were expanding outside the data range.
+  raws = [mne.io.read_raw_edf(p, preload=False, verbose=False) for p in paths]
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:203: RuntimeWarning: Physical range is not defined in following channels:
+CPz
+  raw   = mne.io.read_raw_edf(edf_path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/data_loader_01.py:270: RuntimeWarning: The data contains 'boundary' events, indicating data discontinuities. Be cautious of filtering and epoching around these events.
+  return reader(path, preload=False, verbose=False)
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+/Users/ariachadha/Desktop/eeg_wheelchair/src/preprocessing_02.py:29: RuntimeWarning: All epochs were dropped!
+You might need to alter reject/flat-criteria or drop bad channels to avoid this. You can use Epochs.plot_drop_log() to see which channels are responsible for the dropping of epochs.
+  ep = mne.Epochs(raw, events, event_id=event_id,
+[INFO] PyTorch 2.10.0 loaded — EEGNet enabled
+============================================================
+ EEG Wheelchair Control — Full Pipeline
+ (EEGNet included)
+============================================================
+
+[1] Loading datasets ...
+
+Loading from: /Users/ariachadha/Desktop/eeg_wheelchair/raw
+  [healthy] found 109 subjects in: /Users/ariachadha/Desktop/eeg_wheelchair/raw/healthy/eegmmidb/eegmmidb_v1
+[healthy]  109 subjects loaded
+  [stroke] figshare dir: /Users/ariachadha/Desktop/eeg_wheelchair/raw/stroke/figshare_21679035
+  [stroke] found 50 EDF(s) in: /Users/ariachadha/Desktop/eeg_wheelchair/raw/stroke/figshare_21679035/edf_extracted
+  [stroke] 50 EDF, 3 event TSV files
+[stroke]   50 subjects loaded
+  [pd] dataset root: /Users/ariachadha/Desktop/eeg_wheelchair/raw/parkinsons/ds004584
+  [pd] found 56 EEG files: {'.set': 56}
+    [skip] sub-049_task-Rest_eeg.set: No reader worked for /Users/ariachadha/Desktop/eeg_wheelchair/raw/parkinsons/ds004584/sub-049/eeg/sub-049_task-Rest_eeg.set: File /Users/ariachadha/Desktop/eeg_wheelchair/raw/parkinsons/ds004584/sub-049/eeg/sub-049_task-Rest_eeg.fdt not found.
+    [skip] sub-054_task-Rest_eeg.set: No reader worked for /Users/ariachadha/Desktop/eeg_wheelchair/raw/parkinsons/ds004584/sub-054/eeg/sub-054_task-Rest_eeg.set: File /Users/ariachadha/Desktop/eeg_wheelchair/raw/parkinsons/ds004584/sub-054/eeg/sub-054_task-Rest_eeg.fdt not found.
+    [skip] sub-055_task-Rest_eeg.set: No reader worked for /Users/ariachadha/Desktop/eeg_wheelchair/raw/parkinsons/ds004584/sub-055/eeg/sub-055_task-Rest_eeg.set: File /Users/ariachadha/Desktop/eeg_wheelchair/raw/parkinsons/ds004584/sub-055/eeg/sub-055_task-Rest_eeg.fdt not found.
+    [skip] sub-056_task-Rest_eeg.set: No reader worked for /Users/ariachadha/Desktop/eeg_wheelchair/raw/parkinsons/ds004584/sub-056/eeg/sub-056_task-Rest_eeg.set: File /Users/ariachadha/Desktop/eeg_wheelchair/raw/parkinsons/ds004584/sub-056/eeg/sub-056_task-Rest_eeg.fdt not found.
+[pd]       52 subjects loaded
+
+Balancing groups ...
+  Sizes before balancing: {'healthy': 109, 'stroke': 50, 'pd': 52}
+  [healthy] balanced to 50 subjects
+  [stroke] balanced to 50 subjects
+  [pd] balanced to 50 subjects
+
+[2] Preprocessing ...
+
+[preprocess] healthy -- 50 subjects
+    [S006] thresh=100uV  kept 2/180 epochs  (178 rejected)
+    wiped all — retrying without rejection
+    [S007] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S008] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S009] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S010] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S014] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S015] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S017] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S021] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S028] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S031] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    [S035] thresh=100uV  kept 24/180 epochs  (156 rejected)
+    wiped all — retrying without rejection
+    [S036] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    [S037] thresh=100uV  kept 133/180 epochs  (47 rejected)
+    wiped all — retrying without rejection
+    [S040] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    [S041] thresh=100uV  kept 23/180 epochs  (157 rejected)
+    [S047] thresh=100uV  kept 70/180 epochs  (110 rejected)
+    wiped all — retrying without rejection
+    [S048] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S052] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S053] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S054] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    [S055] thresh=100uV  kept 24/180 epochs  (156 rejected)
+    wiped all — retrying without rejection
+    [S056] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S059] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S063] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    [S064] thresh=100uV  kept 79/180 epochs  (101 rejected)
+    [S066] thresh=100uV  kept 2/180 epochs  (178 rejected)
+    wiped all — retrying without rejection
+    [S070] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    [S072] thresh=100uV  kept 123/180 epochs  (57 rejected)
+    [S073] thresh=100uV  kept 51/180 epochs  (129 rejected)
+    [S074] thresh=100uV  kept 92/180 epochs  (88 rejected)
+    wiped all — retrying without rejection
+    [S077] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S078] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S080] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    [S081] thresh=100uV  kept 7/180 epochs  (173 rejected)
+    wiped all — retrying without rejection
+    [S083] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S084] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S085] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S088] thresh=100uV  kept 222/228 epochs  (6 rejected)
+    [S089] thresh=100uV  kept 124/180 epochs  (56 rejected)
+    wiped all — retrying without rejection
+    [S090] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S094] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S095] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S096] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    [S098] thresh=100uV  kept 77/180 epochs  (103 rejected)
+    wiped all — retrying without rejection
+    [S101] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    [S102] thresh=100uV  kept 83/180 epochs  (97 rejected)
+    wiped all — retrying without rejection
+    [S103] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S105] thresh=100uV  kept 174/180 epochs  (6 rejected)
+    wiped all — retrying without rejection
+    [S106] thresh=100uV  kept 174/180 epochs  (6 rejected)
+  [align] time range 155-193 -> truncating all to 155
+  => healthy total: 7052 epochs, 64 ch, 155 timepoints
+
+[preprocess] stroke -- 50 subjects
+    [sub-01] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-02] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-03] thresh=500uV  kept 54/120 epochs  (66 rejected)
+    [sub-04] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-05] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-06] thresh=500uV  kept 53/120 epochs  (67 rejected)
+    [sub-07] thresh=500uV  kept 57/120 epochs  (63 rejected)
+    [sub-08] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-09] thresh=500uV  kept 58/120 epochs  (62 rejected)
+    [sub-10] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-11] thresh=500uV  kept 58/120 epochs  (62 rejected)
+    [sub-12] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-13] thresh=500uV  kept 2/120 epochs  (118 rejected)
+    [sub-14] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-15] thresh=500uV  kept 58/120 epochs  (62 rejected)
+    [sub-16] thresh=500uV  kept 54/120 epochs  (66 rejected)
+    [sub-17] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-18] thresh=500uV  kept 58/120 epochs  (62 rejected)
+    [sub-19] thresh=500uV  kept 54/120 epochs  (66 rejected)
+    [sub-20] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-21] thresh=500uV  kept 57/120 epochs  (63 rejected)
+    [sub-22] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-23] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-24] thresh=500uV  kept 53/120 epochs  (67 rejected)
+    [sub-25] thresh=500uV  kept 55/120 epochs  (65 rejected)
+    [sub-26] thresh=500uV  kept 56/120 epochs  (64 rejected)
+    [sub-27] thresh=500uV  kept 54/120 epochs  (66 rejected)
+    [sub-28] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-29] thresh=500uV  kept 58/120 epochs  (62 rejected)
+    [sub-30] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-31] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-32] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-33] thresh=500uV  kept 57/120 epochs  (63 rejected)
+    [sub-34] thresh=500uV  kept 57/120 epochs  (63 rejected)
+    [sub-35] thresh=500uV  kept 56/120 epochs  (64 rejected)
+    [sub-36] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-37] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-38] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-39] thresh=500uV  kept 57/120 epochs  (63 rejected)
+    [sub-40] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-41] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-42] thresh=500uV  kept 58/120 epochs  (62 rejected)
+    [sub-43] thresh=500uV  kept 53/120 epochs  (67 rejected)
+    [sub-44] thresh=500uV  kept 59/120 epochs  (61 rejected)
+    [sub-45] thresh=500uV  kept 58/120 epochs  (62 rejected)
+    [sub-46] thresh=500uV  kept 58/120 epochs  (62 rejected)
+    [sub-47] thresh=500uV  kept 56/120 epochs  (64 rejected)
+    [sub-48] thresh=500uV  kept 58/120 epochs  (62 rejected)
+    [sub-49] thresh=500uV  kept 56/120 epochs  (64 rejected)
+    [sub-50] thresh=500uV  kept 59/120 epochs  (61 rejected)
+  => stroke total: 2820 epochs, 33 ch, 601 timepoints
+
+[preprocess] pd -- 50 subjects
+    [sub-001_task-Rest_eeg.set] thresh=500uV  kept 140/140 epochs  (0 rejected)
+    [sub-002_task-Rest_eeg.set] thresh=500uV  kept 163/163 epochs  (0 rejected)
+    [sub-003_task-Rest_eeg.set] thresh=500uV  kept 124/126 epochs  (2 rejected)
+    [sub-004_task-Rest_eeg.set] thresh=500uV  kept 131/131 epochs  (0 rejected)
+    [sub-005_task-Rest_eeg.set] thresh=500uV  kept 119/124 epochs  (5 rejected)
+    [sub-006_task-Rest_eeg.set] thresh=500uV  kept 126/131 epochs  (5 rejected)
+    [sub-007_task-Rest_eeg.set] thresh=500uV  kept 119/119 epochs  (0 rejected)
+    [sub-009_task-Rest_eeg.set] thresh=500uV  kept 118/124 epochs  (6 rejected)
+    [sub-010_task-Rest_eeg.set] thresh=500uV  kept 171/171 epochs  (0 rejected)
+    [sub-011_task-Rest_eeg.set] thresh=500uV  kept 78/78 epochs  (0 rejected)
+    [sub-012_task-Rest_eeg.set] thresh=500uV  kept 60/60 epochs  (0 rejected)
+    [sub-013_task-Rest_eeg.set] thresh=500uV  kept 61/61 epochs  (0 rejected)
+    [sub-014_task-Rest_eeg.set] thresh=500uV  kept 59/62 epochs  (3 rejected)
+    [sub-015_task-Rest_eeg.set] thresh=500uV  kept 60/60 epochs  (0 rejected)
+    [sub-016_task-Rest_eeg.set] thresh=500uV  kept 59/60 epochs  (1 rejected)
+    [sub-017_task-Rest_eeg.set] thresh=500uV  kept 90/92 epochs  (2 rejected)
+    [sub-018_task-Rest_eeg.set] thresh=500uV  kept 74/75 epochs  (1 rejected)
+    [sub-019_task-Rest_eeg.set] thresh=500uV  kept 93/93 epochs  (0 rejected)
+    [sub-020_task-Rest_eeg.set] thresh=500uV  kept 90/90 epochs  (0 rejected)
+    [sub-022_task-Rest_eeg.set] thresh=500uV  kept 75/76 epochs  (1 rejected)
+    [sub-023_task-Rest_eeg.set] thresh=500uV  kept 84/84 epochs  (0 rejected)
+    [sub-024_task-Rest_eeg.set] thresh=500uV  kept 75/75 epochs  (0 rejected)
+    [sub-025_task-Rest_eeg.set] thresh=500uV  kept 81/81 epochs  (0 rejected)
+    [sub-026_task-Rest_eeg.set] thresh=500uV  kept 71/71 epochs  (0 rejected)
+    [sub-027_task-Rest_eeg.set] thresh=500uV  kept 60/60 epochs  (0 rejected)
+    [sub-028_task-Rest_eeg.set] thresh=500uV  kept 70/77 epochs  (7 rejected)
+    [sub-029_task-Rest_eeg.set] thresh=500uV  kept 100/101 epochs  (1 rejected)
+    [sub-030_task-Rest_eeg.set] thresh=500uV  kept 88/88 epochs  (0 rejected)
+    [sub-031_task-Rest_eeg.set] thresh=500uV  kept 90/90 epochs  (0 rejected)
+    [sub-032_task-Rest_eeg.set] thresh=500uV  kept 75/75 epochs  (0 rejected)
+    [sub-033_task-Rest_eeg.set] thresh=500uV  kept 65/65 epochs  (0 rejected)
+    [sub-034_task-Rest_eeg.set] thresh=500uV  kept 87/87 epochs  (0 rejected)
+    [sub-035_task-Rest_eeg.set] thresh=500uV  kept 98/101 epochs  (3 rejected)
+    [sub-036_task-Rest_eeg.set] thresh=500uV  kept 60/60 epochs  (0 rejected)
+    [sub-037_task-Rest_eeg.set] thresh=500uV  kept 64/64 epochs  (0 rejected)
+    [sub-038_task-Rest_eeg.set] thresh=500uV  kept 68/68 epochs  (0 rejected)
+    [sub-039_task-Rest_eeg.set] thresh=500uV  kept 82/82 epochs  (0 rejected)
+    [sub-040_task-Rest_eeg.set] thresh=500uV  kept 52/68 epochs  (16 rejected)
+    [sub-041_task-Rest_eeg.set] thresh=500uV  kept 75/75 epochs  (0 rejected)
+    [sub-042_task-Rest_eeg.set] thresh=500uV  kept 73/73 epochs  (0 rejected)
+    [sub-043_task-Rest_eeg.set] thresh=500uV  kept 63/65 epochs  (2 rejected)
+    [sub-044_task-Rest_eeg.set] thresh=500uV  kept 69/69 epochs  (0 rejected)
+    [sub-045_task-Rest_eeg.set] thresh=500uV  kept 29/72 epochs  (43 rejected)
+    [sub-046_task-Rest_eeg.set] thresh=500uV  kept 65/65 epochs  (0 rejected)
+    [sub-047_task-Rest_eeg.set] thresh=500uV  kept 65/65 epochs  (0 rejected)
+    [sub-048_task-Rest_eeg.set] thresh=500uV  kept 78/119 epochs  (41 rejected)
+    [sub-050_task-Rest_eeg.set] thresh=500uV  kept 62/62 epochs  (0 rejected)
+    [sub-051_task-Rest_eeg.set] thresh=500uV  kept 62/62 epochs  (0 rejected)
+    [sub-052_task-Rest_eeg.set] thresh=500uV  kept 65/65 epochs  (0 rejected)
+    [sub-053_task-Rest_eeg.set] thresh=500uV  kept 63/63 epochs  (0 rejected)
+  [align] channel range 63-64 -> truncating all to 63
+  => pd total: 4149 epochs, 63 ch, 1001 timepoints
+
+  Sampling frequencies:
+  sfreq [healthy]: 160.0 Hz
+  sfreq [stroke]: 500.0 Hz
+  sfreq [pd]: 500.0 Hz
+
+[3] PHASE 1 — Classifier only
+
+  === Trial 1/5 ===
+  Channel counts: [('healthy', 64), ('stroke', 33), ('pd', 63)]  → truncating all to 33
+  RF [healthy] sfreq=160.0Hz  0.534 ± 0.005  >=80% ✗
+  RF [stroke] sfreq=500.0Hz  0.542 ± 0.022  >=80% ✗
+  RF [pd] sfreq=500.0Hz  0.741 ± 0.017  >=80% ✗
+
+  === Trial 2/5 ===
+  Channel counts: [('healthy', 64), ('stroke', 33), ('pd', 63)]  → truncating all to 33
+  RF [healthy] sfreq=160.0Hz  0.539 ± 0.007  >=80% ✗
+  RF [stroke] sfreq=500.0Hz  0.539 ± 0.015  >=80% ✗
+  RF [pd] sfreq=500.0Hz  0.738 ± 0.014  >=80% ✗
+
+  === Trial 3/5 ===
+  Channel counts: [('healthy', 64), ('stroke', 33), ('pd', 63)]  → truncating all to 33
+  RF [healthy] sfreq=160.0Hz  0.538 ± 0.008  >=80% ✗
+  RF [stroke] sfreq=500.0Hz  0.538 ± 0.012  >=80% ✗
+  RF [pd] sfreq=500.0Hz  0.745 ± 0.015  >=80% ✗
+
+  === Trial 4/5 ===
+  Channel counts: [('healthy', 64), ('stroke', 33), ('pd', 63)]  → truncating all to 33
+  RF [healthy] sfreq=160.0Hz  0.536 ± 0.008  >=80% ✗
+  RF [stroke] sfreq=500.0Hz  0.543 ± 0.008  >=80% ✗
+  RF [pd] sfreq=500.0Hz  0.737 ± 0.013  >=80% ✗
+
+  === Trial 5/5 ===
+  Channel counts: [('healthy', 64), ('stroke', 33), ('pd', 63)]  → truncating all to 33
+  RF [healthy] sfreq=160.0Hz  0.538 ± 0.008  >=80% ✗
+  RF [stroke] sfreq=500.0Hz  0.552 ± 0.010  >=80% ✗
+  RF [pd] sfreq=500.0Hz  0.743 ± 0.008  >=80% ✗
+
+  === EEGNet Trial 1/5 ===
+  [healthy] EEGNet: 7052 epochs, 64 ch, 155 timepoints
+  EN [healthy] 0.569 ± 0.019  >=80% ✗
+  [stroke] EEGNet: 2820 epochs, 33 ch, 601 timepoints
+  EN [stroke] 0.501 ± 0.022  >=80% ✗
+  [pd] EEGNet: 4149 epochs, 63 ch, 1001 timepoints
+  EN [pd] 0.447 ± 0.024  >=80% ✗
+
+  === EEGNet Trial 2/5 ===
+  [healthy] EEGNet: 7052 epochs, 64 ch, 155 timepoints
+  EN [healthy] 0.569 ± 0.019  >=80% ✗
+  [stroke] EEGNet: 2820 epochs, 33 ch, 601 timepoints
+  EN [stroke] 0.501 ± 0.022  >=80% ✗
+  [pd] EEGNet: 4149 epochs, 63 ch, 1001 timepoints
+  EN [pd] 0.447 ± 0.024  >=80% ✗
+
+  === EEGNet Trial 3/5 ===
+  [healthy] EEGNet: 7052 epochs, 64 ch, 155 timepoints
+  EN [healthy] 0.569 ± 0.019  >=80% ✗
+  [stroke] EEGNet: 2820 epochs, 33 ch, 601 timepoints
+  EN [stroke] 0.501 ± 0.022  >=80% ✗
+  [pd] EEGNet: 4149 epochs, 63 ch, 1001 timepoints
+  EN [pd] 0.447 ± 0.024  >=80% ✗
+
+  === EEGNet Trial 4/5 ===
+  [healthy] EEGNet: 7052 epochs, 64 ch, 155 timepoints
+  EN [healthy] 0.569 ± 0.019  >=80% ✗
+  [stroke] EEGNet: 2820 epochs, 33 ch, 601 timepoints
+  EN [stroke] 0.501 ± 0.022  >=80% ✗
+  [pd] EEGNet: 4149 epochs, 63 ch, 1001 timepoints
+  EN [pd] 0.447 ± 0.024  >=80% ✗
+
+  === EEGNet Trial 5/5 ===
+  [healthy] EEGNet: 7052 epochs, 64 ch, 155 timepoints
+  EN [healthy] 0.569 ± 0.019  >=80% ✗
+  [stroke] EEGNet: 2820 epochs, 33 ch, 601 timepoints
+  EN [stroke] 0.501 ± 0.022  >=80% ✗
+  [pd] EEGNet: 4149 epochs, 63 ch, 1001 timepoints
+  EN [pd] 0.447 ± 0.024  >=80% ✗
+
+[4] Applying adaptive amplification ...
+
+Adaptive amplification ...
+  Healthy RMS baseline: 50.955 µV
+  [stroke] amplified 2728/2820 (96.7%), mean factor=1.355×
+  [pd] amplified 4149/4149 (100.0%), mean factor=1.379×
+
+[5] PHASE 2 — Classifier + amplification
+
+  === Trial 1/5 ===
+  Channel counts: [('healthy', 64), ('stroke', 33), ('pd', 63)]  → truncating all to 33
+  RF [healthy] sfreq=160.0Hz  0.534 ± 0.005  >=80% ✗
+  RF [stroke] sfreq=500.0Hz  0.529 ± 0.022  >=80% ✗
+  RF [pd] sfreq=500.0Hz  0.738 ± 0.014  >=80% ✗
+
+  === Trial 2/5 ===
+  Channel counts: [('healthy', 64), ('stroke', 33), ('pd', 63)]  → truncating all to 33
+  RF [healthy] sfreq=160.0Hz  0.539 ± 0.007  >=80% ✗
+  RF [stroke] sfreq=500.0Hz  0.533 ± 0.016  >=80% ✗
+  RF [pd] sfreq=500.0Hz  0.727 ± 0.015  >=80% ✗
+
+  === Trial 3/5 ===
+  Channel counts: [('healthy', 64), ('stroke', 33), ('pd', 63)]  → truncating all to 33
+  RF [healthy] sfreq=160.0Hz  0.538 ± 0.008  >=80% ✗
+  RF [stroke] sfreq=500.0Hz  0.544 ± 0.014  >=80% ✗
+  RF [pd] sfreq=500.0Hz  0.727 ± 0.020  >=80% ✗
+
+  === Trial 4/5 ===
+  Channel counts: [('healthy', 64), ('stroke', 33), ('pd', 63)]  → truncating all to 33
+  RF [healthy] sfreq=160.0Hz  0.536 ± 0.008  >=80% ✗
+  RF [stroke] sfreq=500.0Hz  0.521 ± 0.008  >=80% ✗
+  RF [pd] sfreq=500.0Hz  0.718 ± 0.009  >=80% ✗
+
+  === Trial 5/5 ===
+  Channel counts: [('healthy', 64), ('stroke', 33), ('pd', 63)]  → truncating all to 33
+  RF [healthy] sfreq=160.0Hz  0.538 ± 0.008  >=80% ✗
+  RF [stroke] sfreq=500.0Hz  0.543 ± 0.007  >=80% ✗
+  RF [pd] sfreq=500.0Hz  0.725 ± 0.008  >=80% ✗
+
+  === EEGNet Trial 1/5 ===
+  [healthy] EEGNet: 7052 epochs, 64 ch, 155 timepoints
+  EN [healthy] 0.569 ± 0.019  >=80% ✗
+  [stroke] EEGNet: 2820 epochs, 33 ch, 601 timepoints
+  EN [stroke] 0.500 ± 0.022  >=80% ✗
+  [pd] EEGNet: 4149 epochs, 63 ch, 1001 timepoints
+  EN [pd] 0.397 ± 0.002  >=80% ✗
+
+  === EEGNet Trial 2/5 ===
+  [healthy] EEGNet: 7052 epochs, 64 ch, 155 timepoints
+  EN [healthy] 0.569 ± 0.019  >=80% ✗
+  [stroke] EEGNet: 2820 epochs, 33 ch, 601 timepoints
+  EN [stroke] 0.500 ± 0.022  >=80% ✗
+  [pd] EEGNet: 4149 epochs, 63 ch, 1001 timepoints
+  EN [pd] 0.397 ± 0.002  >=80% ✗
+
+  === EEGNet Trial 3/5 ===
+  [healthy] EEGNet: 7052 epochs, 64 ch, 155 timepoints
+  EN [healthy] 0.569 ± 0.019  >=80% ✗
+  [stroke] EEGNet: 2820 epochs, 33 ch, 601 timepoints
+  EN [stroke] 0.500 ± 0.022  >=80% ✗
+  [pd] EEGNet: 4149 epochs, 63 ch, 1001 timepoints
+  EN [pd] 0.397 ± 0.002  >=80% ✗
+
+  === EEGNet Trial 4/5 ===
+  [healthy] EEGNet: 7052 epochs, 64 ch, 155 timepoints
+  EN [healthy] 0.569 ± 0.019  >=80% ✗
+  [stroke] EEGNet: 2820 epochs, 33 ch, 601 timepoints
+  EN [stroke] 0.500 ± 0.022  >=80% ✗
+  [pd] EEGNet: 4149 epochs, 63 ch, 1001 timepoints
+  EN [pd] 0.397 ± 0.002  >=80% ✗
+
+  === EEGNet Trial 5/5 ===
+  [healthy] EEGNet: 7052 epochs, 64 ch, 155 timepoints
+  EN [healthy] 0.569 ± 0.019  >=80% ✗
+  [stroke] EEGNet: 2820 epochs, 33 ch, 601 timepoints
+  EN [stroke] 0.500 ± 0.022  >=80% ✗
+  [pd] EEGNet: 4149 epochs, 63 ch, 1001 timepoints
+  EN [pd] 0.397 ± 0.002  >=80% ✗
+
+[6] PHASE 3 — SimPy simulation
+  [healthy] phase=Phase2 acc=0.85
+    trial 1: ✗ steps=200 coll=0 acc=0.90 lat=283ms
+    trial 2: ✗ steps=200 coll=0 acc=0.90 lat=281ms
+    trial 3: ✗ steps=200 coll=0 acc=0.92 lat=271ms
+    trial 4: ✗ steps=200 coll=0 acc=0.91 lat=277ms
+    trial 5: ✗ steps=200 coll=0 acc=0.92 lat=258ms
+  [stroke] phase=Phase2 acc=0.80
+    trial 1: ✗ steps=200 coll=0 acc=0.90 lat=283ms
+    trial 2: ✗ steps=200 coll=0 acc=0.90 lat=281ms
+    trial 3: ✗ steps=200 coll=0 acc=0.92 lat=271ms
+    trial 4: ✗ steps=200 coll=0 acc=0.91 lat=277ms
+    trial 5: ✗ steps=200 coll=0 acc=0.92 lat=258ms
+  [pd] phase=Phase2 acc=0.82
+    trial 1: ✗ steps=200 coll=0 acc=0.90 lat=283ms
+    trial 2: ✗ steps=200 coll=0 acc=0.90 lat=281ms
+    trial 3: ✗ steps=200 coll=0 acc=0.92 lat=271ms
+    trial 4: ✗ steps=200 coll=0 acc=0.91 lat=277ms
+    trial 5: ✗ steps=200 coll=0 acc=0.92 lat=258ms
+
+==================================================
+Generating figures ...
+==================================================
+============================================================
+DATA ANALYSIS SUMMARY
+============================================================
+
+--- Accuracy by Group and Phase ---
+
+Phase1:
+  healthy     RF=0.537±0.002  EEGNet=0.569  min=0.534  max=0.539
+  stroke      RF=0.543±0.005  EEGNet=0.501  min=0.538  max=0.552
+  pd          RF=0.741±0.003  EEGNet=0.447  min=0.737  max=0.745
+
+Phase2:
+  healthy     RF=0.537±0.002  EEGNet=0.569  min=0.534  max=0.539
+  stroke      RF=0.534±0.009  EEGNet=0.500  min=0.521  max=0.544
+  pd          RF=0.727±0.007  EEGNet=0.397  min=0.718  max=0.738
+
+Phase3:
+  healthy     RF=0.537±0.002  EEGNet=0.569  min=0.534  max=0.539
+  stroke      RF=0.534±0.009  EEGNet=0.500  min=0.521  max=0.544
+  pd          RF=0.727±0.007  EEGNet=0.397  min=0.718  max=0.738
+
+--- Paired t-test: Phase 1 vs Phase 2 (RF) ---
+  healthy     t=0.000  p=1.0000  Cohen's d=0.000  [not significant]
+  stroke      t=1.852  p=0.1012  Cohen's d=-1.309  [not significant]
+  pd          t=3.892  p=0.0046  Cohen's d=-2.752  [SIGNIFICANT]
+
+--- Paired t-test: Phase 2 vs Phase 3 (RF) ---
+  healthy     t=0.000  p=1.0000
+  stroke      t=0.000  p=1.0000
+  pd          t=0.000  p=1.0000
+
+--- Amplification Factor Statistics ---
+  stroke      amplified=2728/2820 epochs  mean=1.355  std=0.092  min=1.100  max=1.465
+  pd          amplified=4149/4149 epochs  mean=1.379  std=0.056  min=1.100  max=1.471
+
+--- Accuracy Improvement: Phase 1 → Phase 2 ---
+  healthy     0.537 → 0.537  (+0.0pp)
+  stroke      0.543 → 0.534  (-0.9pp)
+  pd          0.741 → 0.727  (-1.4pp)
+
+============================================================
+
+  data_analysis.txt → /Users/ariachadha/Desktop/eeg_wheelchair/outputs/data_analysis.txt
+  Results CSV: /Users/ariachadha/Desktop/eeg_wheelchair/outputs/results.csv
+
+==================================================
+FINAL SUMMARY
+==================================================
+  Phase1 | healthy    | RF=0.537 EEGNet=0.569 | ✗
+  Phase1 | stroke     | RF=0.543 EEGNet=0.501 | ✗
+  Phase1 | pd         | RF=0.741 EEGNet=0.447 | ✗
+  Phase2 | healthy    | RF=0.537 EEGNet=0.569 | ✗
+  Phase2 | stroke     | RF=0.534 EEGNet=0.500 | ✗
+  Phase2 | pd         | RF=0.727 EEGNet=0.397 | ✗
+  Phase3 | healthy    | RF=0.537 EEGNet=0.569 | ✗
+  Phase3 | stroke     | RF=0.534 EEGNet=0.500 | ✗
+  Phase3 | pd         | RF=0.727 EEGNet=0.397 | ✗
+  report.md  → /Users/ariachadha/Desktop/eeg_wheelchair/outputs/report.md
+  report.html→ /Users/ariachadha/Desktop/eeg_wheelchair/outputs/report.html
+  [SKIP] PDF — install weasyprint
+
+============================================================
+Done. Check outputs/ folder.
+Simulation GUI: python run_pipeline.py --sim-only
+============================================================

@@ -1,0 +1,12 @@
+      25/200 permutations
+      50/200 permutations
+      75/200 permutations
+      100/200 permutations
+      125/200 permutations
+      150/200 permutations
+      175/200 permutations
+      200/200 permutations
+    observed 0.5404   null 0.4896 +/- 0.0152   p = 0.004975  (200 permutations)
+<string>:1: ResourceWarning: unclosed file <_io.TextIOWrapper name='outputs/permutation_stroke.json' mode='w' encoding='UTF-8'>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+DONE

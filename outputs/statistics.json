@@ -1,0 +1,58 @@
+{
+  "Phase2|healthy": {
+    "phase": "Phase2",
+    "group": "healthy",
+    "n_subjects": 87,
+    "mean_phase1": 0.6231933041415801,
+    "mean_phase2": 0.6231933041415801,
+    "mean_change_pp": 0.0,
+    "ci_low_pp": 0.0,
+    "ci_high_pp": 0.0,
+    "t": 0.0,
+    "p_paired_t": 1.0,
+    "p_wilcoxon": 1.0,
+    "cohens_dz": 0.0
+  },
+  "Phase2|stroke": {
+    "phase": "Phase2",
+    "group": "stroke",
+    "n_subjects": 46,
+    "mean_phase1": 0.5409006211180124,
+    "mean_phase2": 0.5454244306418221,
+    "mean_change_pp": 0.45238095238095133,
+    "ci_low_pp": -1.6032776795619696,
+    "ci_high_pp": 2.5080395843238725,
+    "t": 0.44323604858188254,
+    "p_paired_t": 0.6597186793204574,
+    "p_wilcoxon": 0.5292524003342842,
+    "cohens_dz": 0.0653515900403357
+  },
+  "Phase3|healthy": {
+    "phase": "Phase3",
+    "group": "healthy",
+    "n_subjects": 87,
+    "mean_phase1": 0.6231933041415801,
+    "mean_phase2": 0.6231933041415801,
+    "mean_change_pp": 0.0,
+    "ci_low_pp": 0.0,
+    "ci_high_pp": 0.0,
+    "t": 0.0,
+    "p_paired_t": 1.0,
+    "p_wilcoxon": 1.0,
+    "cohens_dz": 0.0
+  },
+  "Phase3|stroke": {
+    "phase": "Phase3",
+    "group": "stroke",
+    "n_subjects": 46,
+    "mean_phase1": 0.5409006211180124,
+    "mean_phase2": 0.5329917184265011,
+    "mean_change_pp": -0.7908902691511397,
+    "ci_low_pp": -3.049317197081569,
+    "ci_high_pp": 1.4675366587792897,
+    "t": -0.7053293385896368,
+    "p_paired_t": 0.4842405260024273,
+    "p_wilcoxon": 0.695883945684758,
+    "cohens_dz": -0.10399513741372836
+  }
+}
