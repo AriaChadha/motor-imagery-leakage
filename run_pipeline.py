@@ -36,7 +36,8 @@ from amplification_03 import (apply_amplification, amplitude_compression,
                               clip_sensitivity, healthy_baseline,
                               snr_invariance_check, compute_factors,
                               baseline_comparison, subject_baseline)
-from classifier_rf_04 import train_evaluate as rf_evaluate, feature_ablation
+from classifier_rf_04 import (train_evaluate as rf_evaluate, feature_ablation,
+                              permutation_test)
 import navigation_sim as sim
 from evaluation_07 import run_full_evaluation
 from report_08 import build_report
@@ -146,6 +147,9 @@ def main():
                     help="also run EEGNet (slow)")
     ap.add_argument("--ablation", action="store_true",
                     help="run the feature ablation on stroke")
+    ap.add_argument("--permutation", type=int, default=0, metavar="N",
+                    help="run N label permutations per group to test whether "
+                         "within-subject accuracy exceeds chance")
     ap.add_argument("--no-cache", action="store_true",
                     help="ignore cached preprocessed data")
     ap.add_argument("--author", type=str, default="",
@@ -210,6 +214,15 @@ def main():
         Xs, ys, ss = data["stroke"]
         ablation = feature_ablation(Xs, ys, ss, random_state=args.seed)
 
+    perm = {}
+    if args.permutation:
+        print(f"\n[4b] Permutation test ({args.permutation} shuffles) ...")
+        for g in GROUPS:
+            print(f"  {g}:")
+            Xg, yg, sg = data[g]
+            perm[g] = permutation_test(Xg, yg, sg, random_state=args.seed,
+                                       n_perm=args.permutation)
+
     phase_results = {"Phase1": phase1["rf"], "Phase2": phase2["rf"],
                      "Phase3": phase3["rf"]}
     navigation = {"Phase1": phase1["navigation"],
@@ -243,6 +256,7 @@ def main():
                                    "Phase3": phase3["baseline"]},
         "phase2_factors": {g: v.tolist() for g, v in phase2["factors"].items()},
         "ablation": ablation,
+        "permutation": perm,
     }
     with open(os.path.join(OUT, "pipeline_results.json"), "w") as f:
         json.dump(bundle, f, indent=2, default=float)
