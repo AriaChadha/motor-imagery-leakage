@@ -140,7 +140,7 @@ def main():
                     help="navigation trials per group per phase")
     ap.add_argument("--max-subjects", type=int, default=None,
                     help="cap subjects per group")
-    ap.add_argument("--ptp", type=float, default=150.0,
+    ap.add_argument("--ptp", type=float, default=400.0,
                     help="peak-to-peak rejection threshold in uV")
     ap.add_argument("--seed", type=int, default=42)
     ap.add_argument("--eegnet", action="store_true",
