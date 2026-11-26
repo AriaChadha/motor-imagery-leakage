@@ -11,3 +11,13 @@ __pycache__/
 *.orig
 venv*/
 raw/
+
+# stale figures from the old 3-group pipeline
+outputs/figures/amp_vs_accuracy.png
+outputs/figures/collision_rate.png
+outputs/figures/effect_size.png
+outputs/figures/raw_eeg_traces.png
+outputs/figures/rf_vs_eegnet.png
+outputs/figures/simulation_grid.png
+outputs/figures/statistical_summary.png
+outputs/figures/trial_variability.png

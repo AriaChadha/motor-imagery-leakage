@@ -73,7 +73,9 @@ def main():
     info = mne.create_info(names, SFREQ, "eeg")
     info.set_montage(mne.channels.make_standard_montage("standard_1020"))
 
-    fig, axes = plt.subplots(2, 3, figsize=(9, 6.2))
+    vmax = max(np.array(p)[:, i, :].mean(axis=0).max() for p in groups.values() if len(p) for i in range(2))
+    vmax = float(np.ceil(vmax * 10) / 10)          # one shared colour scale, fitted to the data
+    fig, axes = plt.subplots(2, 3, figsize=(9, 5.8))
     summary = {}
     for j, (label, pats) in enumerate(groups.items()):
         P = np.array(pats)                  # subjects x 2 x channels
@@ -88,7 +90,7 @@ def main():
             mean = P[:, i, :].mean(axis=0)
             summary[label][comp] = {ch: round(float(v), 3) for ch, v in zip(CANONICAL_CHANS, mean)}
             im, _ = mne.viz.plot_topomap(mean, info, axes=axes[i, j], show=False, cmap="Reds",
-                                         vlim=(0, 1), contours=0, sensors=True,
+                                         vlim=(0, vmax), contours=0, sensors=True, extrapolate="local",
                                          names=[n if n in ("C3", "C4") else "" for n in names])
             if i == 0:
                 axes[i, j].set_title(f"{label}\n(n = {len(pats)})", fontsize=10)
