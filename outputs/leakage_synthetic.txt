@@ -20,12 +20,12 @@ running null experiment...
   repeat 19/20 done
   repeat 20/20 done
 
-  within_out           0.9114 +/- 0.0070   (+41.14 pp)
-  within_in            0.5036 +/- 0.0115   (+0.36 pp)
-  cross_out_strat      0.5650 +/- 0.0150   (+6.50 pp)
-  cross_out_group      0.5582 +/- 0.0097   (+5.82 pp)
-  cross_in_strat       0.5460 +/- 0.0192   (+4.60 pp)
-  cross_in_group       0.5036 +/- 0.0162   (+0.36 pp)
+  within_out           0.9128 +/- 0.0081   (+41.28 pp)
+  within_in            0.5039 +/- 0.0131   (+0.39 pp)
+  cross_out_strat      0.5645 +/- 0.0163   (+6.45 pp)
+  cross_out_group      0.5564 +/- 0.0125   (+5.64 pp)
+  cross_in_strat       0.5462 +/- 0.0188   (+4.62 pp)
+  cross_in_group       0.5048 +/- 0.0162   (+0.48 pp)
   baseline             0.6145 +/- 0.0115   (+11.45 pp)
 
 wrote figures/leakage_quantification.png
